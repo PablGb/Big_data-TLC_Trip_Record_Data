@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Arquivos para serem ignorados
+*.parquet 
+*.csv
+*.zip
+taxi_zones*
+nyc_tlc_data_record.tmp
+nyc_tlc_data_record.wal
